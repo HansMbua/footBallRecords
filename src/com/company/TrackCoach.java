@@ -22,6 +22,11 @@ public class TrackCoach implements Coach {
 		return "Just Do It: " + fortuneService.getFortune();
 	}
 
+	//creating an init method
+	 public void initMethod(){
+
+	 }
+
 }
 
 
